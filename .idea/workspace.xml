@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7072ace9-3f1d-491d-bf04-475e1f46ec9f" name="Changes" comment="Merge pull request #326 from DotJoshJohnson/release/v2.5.1&#10;&#10;Bump v2.5.1" />
+    <list default="true" id="7072ace9-3f1d-491d-bf04-475e1f46ec9f" name="Changes" comment="293c59583c2edda529fe747090ce1c90833e8a2af774f06ba503577dbfaf05edMerge remote-tracking branch 'origin/master'" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,8 +53,10 @@
     </order>
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
+    <option name="groupByToolId" value="true" />
+    <option name="selectedTabId" value="CurrentFile" />
     <option name="showPreview" value="true" />
+    <option name="sortByName" value="true" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
@@ -291,11 +293,37 @@
       <option name="project" value="LOCAL" />
       <updated>1713493336104</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Merge pull request #326 from DotJoshJohnson/release/v2.5.1&#10;&#10;Bump v2.5.1">
+      <option name="closed" value="true" />
+      <created>1726606354220</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1726606354220</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Merge pull request #326 from DotJoshJohnson/release/v2.5.1&#10;&#10;Bump v2.5.1">
+      <option name="closed" value="true" />
+      <created>1726606382426</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1726606382426</updated>
+    </task>
+    <task id="LOCAL-00004" summary="293c59583c2edda529fe747090ce1c90833e8a2af774f06ba503577dbfaf05edMerge remote-tracking branch 'origin/master'">
+      <option name="closed" value="true" />
+      <created>1726611594938</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1726611594939</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Merge pull request #326 from DotJoshJohnson/release/v2.5.1&#10;&#10;Bump v2.5.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge pull request #326 from DotJoshJohnson/release/v2.5.1&#10;&#10;Bump v2.5.1" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
+    <MESSAGE value="293c59583c2edda529fe747090ce1c90833e8a2af774f06ba503577dbfaf05edMerge remote-tracking branch 'origin/master'" />
+    <option name="LAST_COMMIT_MESSAGE" value="293c59583c2edda529fe747090ce1c90833e8a2af774f06ba503577dbfaf05edMerge remote-tracking branch 'origin/master'" />
   </component>
 </project>
